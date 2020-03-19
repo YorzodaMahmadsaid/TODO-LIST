@@ -1,0 +1,42 @@
+.item {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+.complete-item {
+    color: #609c06;
+}
+
+.complete-item:hover {
+    color: #7fcc0c;
+}
+
+.edit-item {
+    color: #4da7c2;
+}
+
+.edit-item:hover {
+    color: #0be1fd;
+}
+
+.delete-item {
+    color: #d43c3c;
+}
+
+.delete-item:hover {
+    color: #ff0000;
+}
+
+.completed {
+    text-decoration: line-through;
+    opacity: 0.5;
+}
+
+.visibility {
+    opacity: 0.5;
+}
+
+.showItem {
+    display: block;
+}

@@ -1,0 +1,7 @@
+/node_modules
+package-lock.json
+/js/all.js
+/js/bootstrap.bundle.js
+/js/jquery-3.4.1.js
+/css/all.css
+/css/bootstrap.min.css
